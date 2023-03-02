@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/extraer-oraciones/static/css/main.e6c13ad2.css",
+    "main.js": "/extraer-oraciones/static/js/main.02aa303b.js",
+    "static/js/787.a1a66c3f.chunk.js": "/extraer-oraciones/static/js/787.a1a66c3f.chunk.js",
+    "index.html": "/extraer-oraciones/index.html",
+    "main.e6c13ad2.css.map": "/extraer-oraciones/static/css/main.e6c13ad2.css.map",
+    "main.02aa303b.js.map": "/extraer-oraciones/static/js/main.02aa303b.js.map",
+    "787.a1a66c3f.chunk.js.map": "/extraer-oraciones/static/js/787.a1a66c3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.02aa303b.js"
+  ]
+}
